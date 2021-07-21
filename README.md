@@ -1,3 +1,3 @@
 # Python Bootcamp
 
-[The bootcamp link](https://www.udemy.com/course/100-days-of-code/)
+[Bootcamp Link](https://www.udemy.com/course/100-days-of-code/)
